@@ -1,0 +1,4 @@
+github.com/advanced-go/observation v0.0.0-20240904114308-4b0954298fe3 h1:F15lu4UzqCH4NfZcqewW+CCkJE8DNOCI2TIu3Je5Hl8=
+github.com/advanced-go/observation v0.0.0-20240904114308-4b0954298fe3/go.mod h1:1BELX2aPMKL8x7MdLzdh9fu4l26/K8ty28mJVHiF7Q8=
+github.com/advanced-go/stdlib v0.0.0-20240904114116-da5c01b04989 h1:Pjmw1vdkBI28EldFXcscxwHTCgDobCsEoYCTeOAVnVA=
+github.com/advanced-go/stdlib v0.0.0-20240904114116-da5c01b04989/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
