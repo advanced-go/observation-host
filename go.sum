@@ -1,9 +1,9 @@
-github.com/advanced-go/observation v0.0.0-20240908082142-b41ddb5dd546 h1:8WVrTcnidVhRCibES4lYu7VWU/0OVNoLu8NvJVllQjk=
-github.com/advanced-go/observation v0.0.0-20240908082142-b41ddb5dd546/go.mod h1:h9kLm+yKpcuZa5H7PJo7IQThDeKqsgqg8Iz5fupuJ8M=
-github.com/advanced-go/postgresql v0.0.0-20240905164510-d2ecf5b98839 h1:kU1oWptGzlHyx50dx6mXW9+ZZfu6+O/KjZG5W+L61kE=
-github.com/advanced-go/postgresql v0.0.0-20240905164510-d2ecf5b98839/go.mod h1:PxlKdwtp2jXP8NrP8BKaAvtCkK7xEyfR0of5YFm/Whc=
-github.com/advanced-go/stdlib v0.0.0-20240907180029-fecfe93222e9 h1:fUu+vE+GSqGyofDEyi8JsSrK0psSnIU/7JV6eMXiHAk=
-github.com/advanced-go/stdlib v0.0.0-20240907180029-fecfe93222e9/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
+github.com/advanced-go/observation v0.0.0-20240911182513-310c6090893d h1:3BDaL295ouTE/uTZUJVd+qYRxIiI9X7+cFWJpUOKBXI=
+github.com/advanced-go/observation v0.0.0-20240911182513-310c6090893d/go.mod h1:N2uLKT67zAC9Lsjn6oDZdgOEjmWZWjt5Og1SpNs50kQ=
+github.com/advanced-go/postgresql v0.0.0-20240910151312-725142557d34 h1:dictgZ3IN1LA1LDW6ExlAoyRucc79fVdAnxNdkS0PPY=
+github.com/advanced-go/postgresql v0.0.0-20240910151312-725142557d34/go.mod h1:CUNgWjwDiyoF0fwsmSABsz37kMfzzhPki6AopdaZw/Q=
+github.com/advanced-go/stdlib v0.0.0-20240911185931-d38a4db9f13b h1:XVCt2l75I/q9irP0H82w19Sg38vYrD9tBs5afR3TTQk=
+github.com/advanced-go/stdlib v0.0.0-20240911185931-d38a4db9f13b/go.mod h1:bvuWc7Tx57LArgrEvbPxKW4hvIYGS3pw7iG4P6xofoQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
